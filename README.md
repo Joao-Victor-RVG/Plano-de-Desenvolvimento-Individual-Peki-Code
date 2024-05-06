@@ -2,7 +2,7 @@
 
 <figure>
 
-  <img src="#" alt="#">
+  <img src="pekicode.png" alt="peki_code">
 
 <br>
 
