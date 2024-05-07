@@ -13,10 +13,6 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ## Tecnologias 
 
-* [tecnologia principal]
-* [area de atuação]
-
-exemplo
 * [Dart - Flutter]
 * [Desenvovlimento Mobile / Frontend]
 
@@ -25,16 +21,23 @@ exemplo
 ## :clipboard:  Sobre os Cursos 
 
 
-* [Nome dos Cursos ou conteúdos que estou acompanhando para o desenvolvimento do PDI.](link do curso / conteúdos)
+* [Aprenda Flutter e Desenvolva Apps para Android e IOS](https://www.udemy.com/course/curso-flutter/?couponCode=ST20MT50724)
 
-  #### Discorra sobre o curso ou conteudo que esta estudando.
-
-Exemplo
-
-* [curso em Video Pyhton Mundo 03](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+  #### Um Curso Completo Para Aprender Google Flutter e Dart Para a Construção de Apps Nativas Para iOS e Android...
 
 
-  #### Esse é um curso de Pyhton 03 ministrado pelo professor gustavo Guanabara Gratuitamente.
+## :clipboard: Overview
 
+### Conteúdos estudados
 
+- [ ] Fundamentos do Flutter
+- [ ] Noções básicas de Flutter
+- [ ] Debugging & Diferentes
+- [ ] Construindo App Real - Despesas Pessoais
+- [ ] Interfaces Responsivas & Adaptativas
+- [ ] Flutter & Widgets Internamente
+- [ ] Navegação & Múltiplas Telas - Flutter
+- [ ] Gerenciamento de Estado
+- [ ] Trabalhando com Formulários - Flutter
+- [ ] Enviando Requisições HTTP
 
