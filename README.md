@@ -30,7 +30,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 ### Conteúdos estudados
 
-- [x ] Fundamentos do Flutter
+- [ ] Fundamentos do Flutter
 - [ ] Noções básicas de Flutter
 - [ ] Debugging & Diferentes
 - [ ] Construindo App Real - Despesas Pessoais
