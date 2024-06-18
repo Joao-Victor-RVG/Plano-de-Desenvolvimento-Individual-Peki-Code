@@ -21,9 +21,11 @@ class MyApp extends StatelessWidget{
 }
 
 class HomePage extends StatelessWidget{
+  const HomePage({super.key});
+
   @override
   Widget build(BuildContext context) {
-    return Material(
+    return const Material(
       child: Center(
           child: Text("hello world!")
     ),
