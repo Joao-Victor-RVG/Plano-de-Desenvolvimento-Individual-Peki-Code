@@ -25,12 +25,19 @@ class HomePage extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    return const Material(
-      child: Center(
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Home"),
+      ),
+      body: Center(
           child: Text("hello world!")
     ),
+    floatingActionButton: FloatingActionButton(
+      child: Icon(Icons.add),
+      onPressed: () {
+        print("Clicou");
+      },
+    ),
     );
-    // TODO: implement build
-    throw UnimplementedError();
   }
 }
