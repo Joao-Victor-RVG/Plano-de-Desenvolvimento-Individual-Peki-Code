@@ -39,9 +39,9 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [x] Flutter Curso 2022 #4 - Pastas de projeto
 - [x] Flutter Curso 2022 #5 - Conhecendo o Hot Reload
 - [x] Flutter Curso 2022 #6 - Os botões de depuração do VSCode
-- [ ] Flutter Curso 2022 #7 - Criação de widgets
-- [ ] Flutter Curso 2022 #8 - O MaterialApp
-- [ ] Flutter Curso 2022 #9 - ErrorLens e lint
+- [x] Flutter Curso 2022 #7 - Criação de widgets
+- [x] Flutter Curso 2022 #8 - O MaterialApp
+- [x] Flutter Curso 2022 #9 - ErrorLens e lint
 - [ ] Flutter Curso 2022 #10 - O Scaffold
 - [ ] Flutter Curso 2022 #11 - Componentizando widgets
 - [ ] Flutter Curso 2022 #12 - Primeira e última aula sobre InheritedWidget
